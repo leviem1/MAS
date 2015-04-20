@@ -1,5 +1,5 @@
 """
-	MAC Address Spoof Configurator spoofs the MAC address on OS X machines and connects to defined network.  
+    MAC Address Spoof Configurator spoofs the MAC address on OS X machines and connects to defined network.  
     Copyright (C) 2015  Levi Muniz
 
     This program is free software: you can redistribute it and/or modify
