@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-import argparse, getpass, os, random, subprocess, sys, time
+import argparse, getpass, os, random, sys, time
 
 def randomMAC():
 	mac = [ 0x00, 0x16, 0x3e,
